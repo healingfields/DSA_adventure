@@ -1,4 +1,4 @@
-package ma.showmaker;
+package ma.iiharrat;
 
 public class ScoreOfString {
 
